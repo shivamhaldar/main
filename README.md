@@ -12,3 +12,8 @@ These above changes can be done if anyone wants to change.
 
 If any problem occured then you know what to do.
 ![game](https://user-images.githubusercontent.com/94775990/153142567-31620577-6630-4287-853c-b09750154190.png)
+
+# Code
+
+VS Code :
+![1](https://user-images.githubusercontent.com/94775990/153347601-edeed9f0-9a6f-498e-89d0-0bde11d7f9e7.png)
