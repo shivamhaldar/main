@@ -5,7 +5,10 @@
 
 # Game :
 
-![game](https://user-images.githubusercontent.com/94775990/153142567-31620577-6630-4287-853c-b09750154190.png)
+![game](https://user-images.githubusercontent.com/94775990/155883002-47281a21-95b3-4277-ab87-a4b9186fde50.png)
+
+![game over](https://user-images.githubusercontent.com/94775990/155883015-a5ceda9d-f67a-4402-a654-270eefb17cda.png)
+
 
 # Code
 
